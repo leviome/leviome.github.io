@@ -1,15 +1,15 @@
 ## About
 ---
-嘿嘿
+hey, guys! I am a machine learning engineer at Intel Sports Group, specializing in computer vision, deep learning and geometric machine learning, etc. 
 
 ## Education
 
 ---
 
 
-* **Hello**
+* **Graduate**
 
-  HeiHei
+  PKU
 
 ## Publications
 
@@ -22,7 +22,7 @@
 ## Awards & Honors
 ------
 
-- 2015, Best baby.
+- 2020, Most Handsome and Humorous Guy.
 
 ##  Experience
 ------
