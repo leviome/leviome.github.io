@@ -17,8 +17,6 @@
 
 * **ll** and Xxxx, "**paper name.** "
 
-  **EMNLP2019**, long paper, [[paper]](https://www.baidu.com), [[code]](https://www.baidu.com)
-
 
 
 ## Awards & Honors
