@@ -1,4 +1,4 @@
-## About
+## Hi
 ---
 hey, guys! I am a machine learning engineer at Intel Sports Group, specializing in computer vision, deep learning and geometric machine learning, etc. It's my honor if you wanna discuss tech problems with me. 
 
