@@ -19,10 +19,12 @@ hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 
 
 
-## Awards & Honors
+## Patents
 ------
 
-- 2020, Most Handsome and Humorous Guy.
+- 
+-
+-
 
 ##  Experience
 ------
