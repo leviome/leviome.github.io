@@ -36,4 +36,5 @@ hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 <iframe src="//player.bilibili.com/player.html?aid=712603111&bvid=BV1tD4y197Gr&cid=247977082&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### [[中文版]](./index_cn.html)
-#### [[THU_list]](./THU_paper_list.html)
+#### [[THU_list]](./files/THU_paper_list.html)
+#### [[CCF_list]](./files/ccf_paper_list.html)
