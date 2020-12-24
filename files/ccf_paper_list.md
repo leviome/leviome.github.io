@@ -10,7 +10,6 @@
 | 4    | [软件工程/系统软件/程序设计语言](https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/)     | 9    | [人机交互与普适计算](https://www.ccf.org.cn/Academic_Evaluation/HCIAndPC/)  |
 | 5    | [数据库/数据挖掘/内容检索](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/)        | 10   | [交叉/综合/新兴](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/)   |
  
-另附下表的 Excel 格式。
 
 
 

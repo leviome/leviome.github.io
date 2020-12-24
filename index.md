@@ -33,6 +33,7 @@ hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 - **Intel Honorarium High-5 Award**. Intel inventors who have filed 5 new non-provisional patent applications within a 52-week period. 
 
 ## Projects
+------
 
 <iframe src="//player.bilibili.com/player.html?aid=712603111&bvid=BV1tD4y197Gr&cid=247977082&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
