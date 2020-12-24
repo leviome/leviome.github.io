@@ -172,7 +172,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:800px;
   float:right;
   padding-bottom:50px;
 }
@@ -196,7 +196,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 1160px) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
