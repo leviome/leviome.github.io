@@ -294,8 +294,8 @@ TKDD|ACM Transactions on Knowledge Discovery from Data|-|-|-|-
 AEI|Advanced Engineering Informatics|-|-|-|-
 IJIS|International Journal of Intelligent Systems|-|-|-|-
 TWEB|ACM Transactions on the Web|-|-|-|-
--|Information Sciences|2020-05-01|-|-|-
--|Geolnformatica|-|-|-|-
+|-|Information Sciences|2020-05-01|-|-|-
+|-|Geolnformatica|-|-|-|-
 DKE|Data and Knowledge Engineering|-|-|-|-
 A类会议| | | | |
 SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
@@ -330,37 +330,37 @@ TASLP|IEEE Transactions on Audio Speech, and Language Processing|-|-|-|-
 B类期刊| | | | |
 TEC|IEEE Transactions on Evolutionary Computation|-|-|-|-
 TNNLS|IEEE Transactions on Neural Networks and learning systems|-|-|-|-
--|IEEE Transactions on Cybernetics|-|-|-|-
+|-|IEEE Transactions on Cybernetics|-|-|-|-
 TFS|IEEE Transactlons on Fuzzy Systems|-|-|-|-
 PR|Pattern Recognltlon|-|-|-|-
 TAC|IEEE Transactions on Affective Comput'ng|-|-|-|-
 JBI|Journal Of Biomedical Informatics|-|-|-|-
--|Neural Networks|-|-|-|-
--|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
+|-|Neural Networks|-|-|-|-
+|-|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
 Expert Syst. Appl.|Expert Systems with Applications|-|-|-|-
 PRL|Pattern Recognltlon Letters|-|-|-|-
 JAIR|Journal Of Artificial Intelligence Research|-|-|-|-
 CVIU|Computer Vision and Image Understanding|-|-|-|-
 EAAI|Engineering Applications Of Artificial Intelligence|-|-|-|-
--|International Journal Of Neural Systems|-|-|-|-
--|Neurocomputlng|-|-|-|-
--|Evolutionary Computation|-|-|-|-
--|Computational Linguistics|-|-|-|-
--|Machine Learning|-|-|-|-
+|-|International Journal Of Neural Systems|-|-|-|-
+|-|Neurocomputlng|-|-|-|-
+|-|Evolutionary Computation|-|-|-|-
+|-|Computational Linguistics|-|-|-|-
+|-|Machine Learning|-|-|-|-
 AIM|Artificial Intelligence in Medicine|-|-|-|-
--|Image and Vision Computlng|-|-|-|-
--|Computer Speech and Language|2020-02-01|-|-|-
--|Journal Of Automated Reasoning|-|-|-|-
+|-|Image and Vision Computlng|-|-|-|-
+|-|Computer Speech and Language|2020-02-01|-|-|-
+|-|Journal Of Automated Reasoning|-|-|-|-
 IJAR|International Journal Of Approximate Reasoning|-|-|-|-
 AAMAS|Autonomous Agents and Multi-Agent Systems|2019-11-15|-|-|-
 IJIS|International Journal Of Intelligent Systems|-|-|-|-
 TG|IEEE Transactlons on Games|-|-|-|-
 JSLHR|Journal Of Speech, Language, and Hearing Research|-|-|-|-
--|Neural Computation|-|-|-|-
--|Applied Intelligence|-|-|-|-
+|-|Neural Computation|-|-|-|-
+|-|Applied Intelligence|-|-|-|-
 TACL|Transactions of the Association for Computational Linguistics|-|-|-|-
--|智 能 系 统 学 报|-|-|-|-
--|中 文 信 息 学 报|-|-|-|-
+|-|智 能 系 统 学 报|-|-|-|-
+|-|中 文 信 息 学 报|-|-|-|-
 A类会议| | | | |
 CVPR|IEEE Conference on Computer Vision and Pattern Recognition|2019-11-15|-|-|-
 ICCV|International Conference on Computer Vision|2019-03-01|-|-|-
@@ -404,7 +404,7 @@ TMM|IEEE Transactions on Multimedia|-|-|-|-
 TVCG|IEEE Transactions on Visualization and Computer Graphics|-|-|-|-
 CAD|Computer-Aided Design|-|-|-|-
 B类期刊| | | | |
--|Signal Processing|-|-|-|-
+|-|Signal Processing|-|-|-|-
 TCSVT|IEEE Transactions on Circuits and Systems for Video Technology|-|-|-|-
 SilMS|SIAM Journal on Imaging Sciences|-|-|-|-
 CG|Computers & Graphics|2020-02-01|-|-|-
@@ -412,9 +412,9 @@ SPL|IEEE Signal Processing Letters|-|-|-|-
 CGF|Computer Graphics Forum|-|-|-|-
 Speech Com|Speech Communication|2020-11-30|-|-|-
 CAGD|Computer Aided Geometric Design|-|-|-|-
--|计算机辅助设计与图形学学报|-|-|-|-
--|中国图像图形学报|-|-|-|-
--|图学学报|-|-|-|-
+|-|计算机辅助设计与图形学学报|-|-|-|-
+|-|中国图像图形学报|-|-|-|-
+|-|图学学报|-|-|-|-
 A类会议| | | | |
 SIGGRAPH|ACM SIGGRAPH Annual Conference|2020-01-22|-|-|-
 IEEE VIS|IEEE Visualization Conference|2019-03-31|-|-|-
@@ -445,7 +445,7 @@ IJHCS|International Journal of Human Computer Studies|-|-|-|-
 TOCHI|ACM Transactions on Computer-Human Interaction|-|-|-|-
 B类期刊| | | | |
 UMUAI|User Modeling and User-Adapted Interaction|-|-|-|-
--|IEEE Transactions on Human-Machine Systems|-|-|-|-
+|-|IEEE Transactions on Human-Machine Systems|-|-|-|-
 HCI|Human Computer Interaction|-|-|-|-
 PMC|Pervasive and Mobile Computing|2020-01-31|-|-|-
 IJHCI|International Journal of Human-Computer Interaction|-|-|-|-
@@ -471,29 +471,29 @@ ICMI|ACM International Conference on Multimodal Interaction|2020-05-04|-|-|-
 A类期刊| | | | |
 JACM|Journal of the ACM|-|-|-|-
 Proc. IEEE|Proceedings of the IEEE|-|-|-|-
--|Science China|-|-|-|-
--|中国科学|-|-|-|-
+|-|Science China|-|-|-|-
+|-|中国科学|-|-|-|-
 B类期刊| | | | |
 TMI|IEEE Transactions on Medical Imaging|-|-|-|-
--|Briefings in Bioinformatics|-|-|-|-
+|-|Briefings in Bioinformatics|-|-|-|-
 TITS|IEEE Transactions on Intelligent Transportation Systems|-|-|-|-
 TGARS|IEEE Transactions on Geoscience and Remote Sensing|-|-|-|-
 TASAE|IEEE Transactions on Automation Science and Engineering|-|-|-|-
--|Bioinformatics|-|-|-|-
+|-|Bioinformatics|-|-|-|-
 JAMIA|Journal of the American Medical Informatics Association|-|-|-|-
 JBHI|IEEE Journal of Biomedical and Health Informatics|-|-|-|-
 TBD|IEEE Transactions on Big Data|-|-|-|-
--|BMC Bioinformatics|-|-|-|-
+|-|BMC Bioinformatics|-|-|-|-
 GRSL|IEEE Geoscience and Remote Sensing Letters|-|-|-|-
 TCBB|IEEE-ACM Transactions on Computational Biology and Bioinformatics|-|-|-|-
 JCST|Journal of Computer Science and Technology|-|-|-|-
--|Tsinghua Science and Technology|-|-|-|-
--|计算机学报|-|-|-|-
--|计算机研究与发展|-|-|-|-
--|电子学报|-|-|-|-
--|自动化学报|-|-|-|-
--|系统仿真学报|-|-|-|-
--|清华大学学报(自然科学版)|-|-|-|-
+|-|Tsinghua Science and Technology|-|-|-|-
+|-|计算机学报|-|-|-|-
+|-|计算机研究与发展|-|-|-|-
+|-|电子学报|-|-|-|-
+|-|自动化学报|-|-|-|-
+|-|系统仿真学报|-|-|-|-
+|-|清华大学学报(自然科学版)|-|-|-|-
 A类会议| | | | |
 RECOMB|International Conference on Research in Computational Molecular Biology|2019-11-01|-|-|-
 ISMB|International conference on Intelligent Systems for Molecular Biology|2020-01-30|-|-|-
