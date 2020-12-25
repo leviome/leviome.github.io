@@ -120,7 +120,7 @@ WCNC|IEEE Wireless Communications & Networking Conference|2019-10-04|2019-12-31|
 ANCS|Architectures for Networking and Communications Systems|2019-07-15|-|-|-
 IWQoS|International Workshop on Quality of Service|2019-03-01|-|-|-
 WiOpt|The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks|-|-|-|[http://wi-opt.org/](http://wi-opt.org/)
-ICN|ACM Conference on Information Centric Networking|-|-|-|[http://www.icn2020.org/information-centric-networking/](http://www.icn2020.org/information-centric-
+ICN|ACM Conference on Information Centric Networking|-|-|-|http://www.icn2020.org/information-centric-networking/
 CNSM|International Conference on Network and Service Management|-|-|-|-
 
 ---
@@ -136,12 +136,10 @@ CNSM|International Conference on Network and Service Management|-|-|-|-
 |JCS|Journal of Computer Security|-|-|-|-|
 TOPS|ACM Transactions on Privacy and Security|-|-|-|-|
 |-|密码学报|-|-|-|-
-
-
 A类会议| | | | |
 S&P|IEEE Symposium on Security and Privacy|2019-09-01|-|-|-
 NDSS|ISOC Network and Distributed System Security Symposium|2019-09-13|-|-|-
-USENIX Security|Usenix Security Symposium|2019-05-15|2020-02-01、2020-05-01|13页正文，录用后改18页|[https://www.usenix.org/conference/usenixsecurity20](https://www.usenix.org/conference/usenixsecurit
+USENIX Security|Usenix Security Symposium|2019-05-15|2020-02-01、2020-05-01|13页正文，录用后改18页|[https://www.usenix.org/conference/usenixsecurity20](https://www.usenix.org/conference/usenixsecurit)
 CCS|ACM Conference on Computer and Communications Security|2020-05-04|-|-|-
 EUROCRYPT|European Cryptology Conference|2019-09-26|-|-|-
 CRYPTO|International Cryptology Conference|2020-02-11|-|-|-
