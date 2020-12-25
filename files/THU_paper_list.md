@@ -9,13 +9,7 @@
 
 
 ## 高性能计算
-| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
-|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
-|A类期刊|    |    |    |    |
-
-
-
-
+| 刊物名称 | 刊物全称 |time to submit  |  date | format
 |TOCS|ACM Transactlons on Computer Systems|-|-|-|-
 |TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
 |TC|IEEE Transactlons on Computers|-|-|-|-
