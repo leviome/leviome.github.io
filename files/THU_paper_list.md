@@ -129,13 +129,13 @@ CNSM|International Conference on Network and Service Management|-|-|-|-
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TIFS|IEEE Transactions on Information Forensics and Security|-|-|-|-
--|Journal of Cryptology|-|-|-|-
+|-|Journal of Cryptology|-|-|-|-
 TDSC|IEEE Transactions on Dependable and Secure Computing|-|-|-|-
 B类期刊| | | | |
--|Computers & Security|-|-|-|-
+|-|Computers & Security|-|-|-|-
 JCS|Journal of Computer Security|-|-|-|-
 TOPS|ACM Transactions on Privacy and Security|-|-|-|-
--|密码学报|-|-|-|-
+|-|密码学报|-|-|-|-
 A类会议| | | | |
 S&P|IEEE Symposium on Security and Privacy|2019-09-01|-|-|-
 NDSS|ISOC Network and Distributed System Security Symposium|2019-09-13|-|-|-
