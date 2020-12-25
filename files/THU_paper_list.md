@@ -7,9 +7,11 @@
 |[高性能计算](#高性能计算) | [计算机网络](#计算机网络) | [网络与信息安全](#网络与信息安全) | [理论计算机科学](#理论计算机科学) | [系统软件与软件工程](#系统软件与软件工程)|
 |[数据库与数据挖掘](#数据库与数据挖掘) | [人工智能与模式识别](#人工智能与模式识别) | [计算机图形学与多媒体](#计算机图形学与多媒体) | [人机交互与普适计算](#人机交互与普适计算)| [综合与交叉](#综合与交叉)
 
-
+---
 ## 高性能计算
+
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 |TOCS|ACM Transactlons on Computer Systems|-|-|-|-
 |TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
 |TC|IEEE Transactlons on Computers|-|-|-|-
@@ -68,6 +70,7 @@ ICPP|International Conference on Parallel Processing|2020-03-17|2020-05-19|10页
 IEDM|IEEE International Electron Devices Meeting|-|-|-|-
 ISSCC|International Solid-State Circuits Conference|-|-|-|-
 
+---
 ## 计算机网络
 
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
@@ -120,6 +123,7 @@ WiOpt|The International Symposium on Modeling and Optimization in Mobile, Ad Hoc
 ICN|ACM Conference on Information Centric Networking|-|-|-|[http://www.icn2020.org/information-centric-networking/](http://www.icn2020.org/information-centric-
 CNSM|International Conference on Network and Service Management|-|-|-|-
 
+---
 ## 网络与信息安全
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -165,6 +169,7 @@ IH&MMSec|ACM Workshop on Information Hiding and Multimedia Security|2020-02-02|-
 SEC|IFIP International Information Security Conference|2019-12-01|-|-|-
 NOMS|IEEE/IFIP Network Operations and Management Symposium|-|-|-|-
 
+---
 ## 理论计算机科学
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -208,6 +213,7 @@ ITCS/ICS|Innovations in Theoretical Computer Science|-|-|-|-
 SWAT/WADS|Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposi|-|-|-|-
 ISIT|IEEE International Symposium on Information Theory|-|-|-|-
 
+---
 ## 系统软件与软件工程
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -264,6 +270,7 @@ ICWS|International Conference on Web Services (Research Track)|2019-12-06|-|-|-
 CP|International Conference on Principles and Practice of Constraint Programming|2020-04-22|-|-|-
 ATVA|International Symposium on Automated Technology for Verification and Analysis|2020-05-03|-|-|-
 
+---
 ## 数据库与数据挖掘
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -309,6 +316,7 @@ EDBT|International Conference on Extending Database Technology|2019-10-11|-|-|-
 CIDR|International Conference on Innovative Data Systems Research|2019-08-23|-|-|-
 DASFAA|Database Systems for Advanced Applications|2019-12-20|-|-|-
 
+---
 ## 人工智能与模式识别
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -385,6 +393,7 @@ UAI|International Conference on Uncertainty in Artificial Intelligence|2020-02-2
 ALT|International Conference on Algorithmic Learning Theory|2019-09-20|-|-|-
 RecSys|Conference on Recommender Systems|-|-|-|-
 
+---
 ## 计算机图形学与多媒体
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -427,6 +436,7 @@ PacificVis|IEEE Pacific Visualization Symposium|2019-10-04|-|-|-
 PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications|-|-|-|-
 DCC|Data Compression Conference|2019-11-01|-|10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
 
+---
 ## 人机交互与普适计算
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
@@ -454,6 +464,7 @@ MobileHCl|International Conference on Human Computer Interaction with Mobile Dev
 DIS|ACM Conference on Designing Interactive Systems|2020-01-31|-|-|-
 ICMI|ACM International Conference on Multimodal Interaction|2020-05-04|-|-|-
 
+---
 ## 综合与交叉
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
