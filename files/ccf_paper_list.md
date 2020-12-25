@@ -14,7 +14,7 @@
 
 
 | 序号  | 刊物名称            | 刊物全称                                                                                                                | 出版社                                                     |  等级 | 期刊/会议   | 类别 |
-|-----|-----------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----|---------|----|
+|-----|------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----|---------|----|
 | 1   |**TOCS**|[ACM Transactions on Computer Systems](http://dblp.uni-trier.de/db/journals/tocs/)| ACM                                                     | A  | Journal | 1  |
 | 2   |**TOS**|[ACM Transactions on Storage](http://dblp.uni-trier.de/db/journals/tos)| ACM                                                     | A  | Journal | 1  |
 | 3   |**TCAD**|[IEEE Transactions On Computer-Aided Design Of Integrated Circuits And System](http://dblp.uni-trier.de/db/journals/tcad)| IEEE                                                    | A  | Journal | 1  |
