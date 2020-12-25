@@ -2,23 +2,22 @@
 
 ## 分类类别
 
-1|2|3|4|5
--|-|-|-|-
-[高性能计算](#高性能计算) | [计算机网络](#计算机网络) | [网络与信息安全](#网络与信息安全) | [理论计算机科学](#理论计算机科学) | [系统软件与软件工程](#系统软件与软件工程)
-[数据库与数据挖掘](#数据库与数据挖掘) | [人工智能与模式识别](#人工智能与模式识别) | [计算机图形学与多媒体](#计算机图形学与多媒体) | [人机交互与普适计算](#人机交互与普适计算) | [综合与交叉](#综合与交叉)
+|1|2|3|4|5|
+|----|------|------|------|------|
+|[高性能计算](#高性能计算) | [计算机网络](#计算机网络) | [网络与信息安全](#网络与信息安全) | [理论计算机科学](#理论计算机科学) | [系统软件与软件工程](#系统软件与软件工程)|
+|[数据库与数据挖掘](#数据库与数据挖掘) | [人工智能与模式识别](#人工智能与模式识别) | [计算机图形学与多媒体](#计算机图形学与多媒体) | [人机交互与普适计算](#人机交互与普适计算)| [综合与交叉](#综合与交叉)
 
 
 ## 高性能计算
-
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
-A类期刊| | | | |
-TOCS|ACM Transactlons on Computer Systems|-|-|-|-
-TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
-TC|IEEE Transactlons on Computers|-|-|-|-
-TCAD|IEEE Transactions On Computer-Aided Design Of Integrated Circults And Systems|-|-|-|-
-TOS|ACM Transactlons on Storage|-|-|-|-
-B类期刊| | | | |
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
+|A类期刊|  | | | |
+|TOCS|ACM Transactlons on Computer Systems|-|-|-|-
+|TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
+|TC|IEEE Transactlons on Computers|-|-|-|-
+|TCAD|IEEE Transactions On Computer-Aided Design Of Integrated Circults And Systems|-|-|-|-
+|TOS|ACM Transactlons on Storage|-|-|-|-
+|B类期刊| | | | |
 TAAS|ACM Transactions on Autonomous and Adaptive Systems|-|-|-|-
 JPDC|Journal Of Parallel and Distributed Computing|-|-|-|-
 TVLSI|IEEE Transactions on Very Large Scale Integration (VLSI) Systems|-|-|-|-
@@ -73,8 +72,8 @@ ISSCC|International Solid-State Circuits Conference|-|-|-|-
 
 ## 计算机网络
 
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 JSAC|IEEE Journal of Selected Areas in Communications|-|-|-|[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journal
 TMC|IEEE Transactions on Mobile Computing|-|-|-|[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
@@ -122,9 +121,10 @@ IWQoS|International Workshop on Quality of Service|2019-03-01|-|-|-
 WiOpt|The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks|-|-|-|[http://wi-opt.org/](http://wi-opt.org/)
 ICN|ACM Conference on Information Centric Networking|-|-|-|[http://www.icn2020.org/information-centric-networking/](http://www.icn2020.org/information-centric-
 CNSM|International Conference on Network and Service Management|-|-|-|-
+
 ## 网络与信息安全
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TIFS|IEEE Transactions on Information Forensics and Security|-|-|-|-
 -|Journal of Cryptology|-|-|-|-
@@ -166,9 +166,10 @@ ACNS|Applied Cryptography and Network Security|2019-09-09|-|-|-
 IH&MMSec|ACM Workshop on Information Hiding and Multimedia Security|2020-02-02|-|-|-
 SEC|IFIP International Information Security Conference|2019-12-01|-|-|-
 NOMS|IEEE/IFIP Network Operations and Management Symposium|-|-|-|-
+
 ## 理论计算机科学
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 SICOMP|SIAM Journal on Computing|-|-|-|-
 TIT|IEEE Transactions on Information Theory|-|-|-|-
@@ -208,9 +209,10 @@ FMCAD|Formal Methods in Computer-Aided Design|2020-04-16|-|-|-
 ITCS/ICS|Innovations in Theoretical Computer Science|-|-|-|-
 SWAT/WADS|Scandinavian Symposium and Workshops on Algorithm Theory/ the Algorithms and Data Structures Symposi|-|-|-|-
 ISIT|IEEE International Symposium on Information Theory|-|-|-|-
+
 ## 系统软件与软件工程
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TSE|IEEE Transactions on Software Engineering|-|-|-|-
 TOSEM|ACM Transactions on Software Engineering and Methodology|-|-|-|-
@@ -263,9 +265,10 @@ SCC|International Conference on Service Computing|2020-02-05|-|-|-
 ICWS|International Conference on Web Services (Research Track)|2019-12-06|-|-|-
 CP|International Conference on Principles and Practice of Constraint Programming|2020-04-22|-|-|-
 ATVA|International Symposium on Automated Technology for Verification and Analysis|2020-05-03|-|-|-
+
 ## 数据库与数据挖掘
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TKDE|IEEE Transactions on Knowledge and Data Engineering|-|-|-|-
 VLDBJ|The VLDB Journal|-|-|-|-
@@ -307,9 +310,10 @@ ECIR|European Conference on IR Research|2019-10-01|-|-|-
 EDBT|International Conference on Extending Database Technology|2019-10-11|-|-|-
 CIDR|International Conference on Innovative Data Systems Research|2019-08-23|-|-|-
 DASFAA|Database Systems for Advanced Applications|2019-12-20|-|-|-
+
 ## 人工智能与模式识别
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|-|-|-|-
 IJCV|International Journal of Computer Vision|-|-|-|-
@@ -382,9 +386,10 @@ IJCNN|International Joint Conference on Neural Networks|2018-12-15|-|-|-
 UAI|International Conference on Uncertainty in Artificial Intelligence|2020-02-20|-|-|-
 ALT|International Conference on Algorithmic Learning Theory|2019-09-20|-|-|-
 RecSys|Conference on Recommender Systems|-|-|-|-
+
 ## 计算机图形学与多媒体
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 TIP|IEEE Transactions on Image Processing|-|-|-|-
 TOG|ACM Transactions on Graphics|-|-|-|-
@@ -423,9 +428,10 @@ SI3D|ACM Symposium on Interactive 3D Graphics|2019-12-13|-|-|-
 PacificVis|IEEE Pacific Visualization Symposium|2019-10-04|-|-|-
 PG|Pacific Graphics: The Pacific Conference on Computer Graphics and Applications|-|-|-|-
 DCC|Data Compression Conference|2019-11-01|-|10页全文|[https://www.cs.brandeis.edu/~dcc/](https://www.cs.brandeis.edu/~dcc/)
+
 ## 人机交互与普适计算
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 IJHCS|International Journal of Human Computer Studies|-|-|-|-
 TOCHI|ACM Transactions on Computer-Human Interaction|-|-|-|-
@@ -449,9 +455,10 @@ IUI|ACM International Conference on Intelligent User Interfaces|2019-10-10|-|-|-
 MobileHCl|International Conference on Human Computer Interaction with Mobile Devices and Services|-|-|-|-
 DIS|ACM Conference on Designing Interactive Systems|2020-01-31|-|-|-
 ICMI|ACM International Conference on Multimodal Interaction|2020-05-04|-|-|-
+
 ## 综合与交叉
-名称|全称|截稿时间|结果时间|篇幅|官网
--|-|-|-|-|-
+| 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
+|------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
 A类期刊| | | | |
 JACM|Journal of the ACM|-|-|-|-
 Proc. IEEE|Proceedings of the IEEE|-|-|-|-
