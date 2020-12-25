@@ -120,22 +120,22 @@ WCNC|IEEE Wireless Communications & Networking Conference|2019-10-04|2019-12-31|
 ANCS|Architectures for Networking and Communications Systems|2019-07-15|-|-|-
 IWQoS|International Workshop on Quality of Service|2019-03-01|-|-|-
 WiOpt|The International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks|-|-|-|[http://wi-opt.org/](http://wi-opt.org/)
-ICN|ACM Conference on Information Centric Networking|-|-|-|http://www.icn2020.org/information-centric-networking/
+ICN|ACM Conference on Information Centric Networking|-|-|-|-
 CNSM|International Conference on Network and Service Management|-|-|-|-
 
 ---
 ## 网络与信息安全
 | 刊物名称            | 刊物全称                                            |time to submit                         |  date | format   | 
 |------------|-----------------------------------------------------------|---------------------------------------------------------|----|---------|
-|A类期刊| | | | |
-|TIFS|IEEE Transactions on Information Forensics and Security|-|-|-|-|
-|-|Journal of Cryptology|-|-|-|-|
-|TDSC|IEEE Transactions on Dependable and Secure Computing|-|-|-|-|
-|B类期刊| | | | |
-|-|Computers & Security|-|-|-|-|
-|JCS|Journal of Computer Security|-|-|-|-|
+A类期刊| | | | |
+TIFS|IEEE Transactions on Information Forensics and Security|-|-|-|-|
+-|Journal of Cryptology|-|-|-|-|
+TDSC|IEEE Transactions on Dependable and Secure Computing|-|-|-|-|
+B类期刊| | | | |
+-|Computers & Security|-|-|-|-|
+JCS|Journal of Computer Security|-|-|-|-|
 TOPS|ACM Transactions on Privacy and Security|-|-|-|-|
-|-|密码学报|-|-|-|-
+-|密码学报|-|-|-|-
 A类会议| | | | |
 S&P|IEEE Symposium on Security and Privacy|2019-09-01|-|-|-
 NDSS|ISOC Network and Distributed System Security Symposium|2019-09-13|-|-|-
