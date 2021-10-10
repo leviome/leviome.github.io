@@ -36,6 +36,8 @@ hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 
 - **Intel Distinguished Invention Award**
 
+- **2nd place in ICCV2021 UVO segmentation competition track #2.**
+
 ## Projects
 ------
 1. Monocular Human Action Capture & Retargetting
