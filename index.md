@@ -34,7 +34,7 @@ hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 
 - **Intel Honorarium High-5 Award**. Intel inventors who have filed 5 new non-provisional patent applications within a 52-week period. 
 
-- **Intel Distinguished Invention Award**
+- **Intel Distinguished Invention Award.**
 
 - **2nd place in ICCV2021 UVO segmentation competition track #2.**
 
