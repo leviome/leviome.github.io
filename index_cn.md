@@ -10,7 +10,7 @@
 ## 工作背景
 *2021.6-现在*&emsp;&emsp;&emsp;好未来教育科技公司&emsp;&emsp;通用图像算法部门&emsp;&emsp;高级图像算法工程师<br>
 *2019.6-2021.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;运动事业部视觉算法团队&emsp;&emsp;机器学习工程师<br>
-*2018.7-2019.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;同上&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;算法实习生（实习转正）
+*2018.7-2019.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;同上&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;算法实习生（实习转正）
 
 ## 基本介绍
 CSDN四年技术博主，人工智能领域博客专家，目前全网排名前1000名。<br>
