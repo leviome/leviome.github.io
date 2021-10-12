@@ -5,12 +5,12 @@
 ## 教育背景
 2016.9-2019.6&emsp;北京大学&emsp;&emsp;集电与智能系统&emsp;硕士<br>
 2012.9-2016.6&emsp;武汉科技大学&emsp;电子信息工程&emsp;本科<br>
-英语水平：CET6 501 (外加2年外企工作经历)
+英语六级：501 (外加2年外企工作经历)
 
 ## 工作背景
 *2021.6-现在*&emsp;&emsp;&emsp;好未来教育科技公司&emsp;&emsp;通用图像算法部门&emsp;&emsp;高级图像算法工程师<br>
 *2019.6-2021.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;运动事业部视觉算法团队&emsp;&emsp;机器学习工程师<br>
-*2018.7-2019.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;同上&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;算法实习生（实习转正）
+*2018.7-2019.6*&emsp;&emsp;英特尔中国&emsp;&emsp;&emsp;运动事业部视觉算法团队&emsp;&emsp;算法实习生（实习转正）
 
 ## 基本介绍
 CSDN四年技术博主，人工智能领域博客专家，目前全网排名前1000名。<br>
