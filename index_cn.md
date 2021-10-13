@@ -23,11 +23,11 @@
 
 ## 作为主要参与人的项目经历及Demo
 - 2021.6-2021.9 单目摄像头动作捕捉并实现虚拟形象肢体跟随，本人负责所有算法部分（历时三个月）：
-<iframe height=300 width=200 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="10" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="10" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>从0开始进行3D关键点检测、运动信息解析、虚拟人物驱动、定制流程、优化结果等步骤，最后实现可观的效果Demo。<br><br>
 
 - 2020.9-2021.6 利用图注意力网络对球类运动比赛的比赛焦点进行估计，本人为第一负责人（已发表专利），Demo如下：
-<iframe src="//player.bilibili.com/player.html?aid=378508007&bvid=BV1Sf4y1c7KM&cid=424336466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
+<iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=378508007&bvid=BV1Sf4y1c7KM&cid=424336466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
 做这个简历的时候人已离职Intel，所以没找到很合适的Demo。
 
 
