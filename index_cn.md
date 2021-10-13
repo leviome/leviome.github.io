@@ -15,6 +15,6 @@
 ## 基本介绍
 CSDN四年技术博主，人工智能领域博客专家，目前全网排名前1000名。<br>
 博客链接地址：[https://muzhan.blog.csdn.net](https://muzhan.blog.csdn.net)<br>
-部分高质量博客文章：《[YOLO系列之YOLOv3](https://blog.csdn.net/leviopku/article/details/82660381)》、《[GNN之图注意力网络GAT](https://blog.csdn.net/leviopku/article/details/104622560)》、《[令人心动的transformer](https://blog.csdn.net/leviopku/article/details/115614056)》、《[生成对抗网络——GAN（一）](https://blog.csdn.net/leviopku/article/details/81292192)》、《[目标检测中的b-box回归损失函数](https://blog.csdn.net/leviopku/article/details/114655338)》、《[【AI数学】Group Normalization](https://blog.csdn.net/leviopku/article/details/83213123)》、《[通俗易懂的Softmax](https://blog.csdn.net/leviopku/article/details/101542568)》、《[Focal Loss(ICCV2017)](https://blog.csdn.net/leviopku/article/details/89816408)》等等。<br>
+部分高质量博客文章：《[YOLO系列之YOLOv3](https://blog.csdn.net/leviopku/article/details/82660381)》、《[GNN之图注意力网络GAT](https://blog.csdn.net/leviopku/article/details/104622560)》、《[令人心动的transformer](https://blog.csdn.net/leviopku/article/details/115614056)》、《[生成对抗网络——GAN（一）](https://blog.csdn.net/leviopku/article/details/81292192)》、《[目标检测中的b-box回归损失函数](https://blog.csdn.net/leviopku/article/details/114655338)》、《[【AI数学】Group Normalization](https://blog.csdn.net/leviopku/article/details/83213123)》、《[优化器：SWA(随机权重平均)](https://blog.csdn.net/leviopku/article/details/84037946)》、《[通俗易懂的Softmax](https://blog.csdn.net/leviopku/article/details/101542568)》、《[Focal Loss(ICCV2017)](https://blog.csdn.net/leviopku/article/details/89816408)》等等。<br>
 
 
