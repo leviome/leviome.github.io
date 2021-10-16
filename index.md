@@ -1,30 +1,18 @@
 #### [[中文版]](./index_cn.html)
 
 ## About
-
----
 hey, guys! I am a machine learning engineer at Intel Sports Group, specializing in computer vision, deep learning and geometric machine learning, etc. It's my honor if you wanna discuss tech problems with me. 
 
 ## Education
+2016.9-2019.6&nbsp;&nbsp;Peking University&nbsp;&nbsp;&nbsp;&nbsp; Integrated Circuits<br>
+2012.9-2016.6&nbsp;&nbsp;Wuhan University of Science and Tech.&nbsp;&nbsp;&nbsp;&nbsp;Electronic Engineering
 
----
-
-
-* **Graduate**
-
-  PKU
 
 ## Publications
 
----
-
 * **ll** and Xxxx, "**paper name.** "
 
-
-
 ## Patents
-------
-
 - 
 -
 -
