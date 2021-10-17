@@ -13,13 +13,10 @@ Hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 * **ll** and Xxxx, "**paper name.** "
 
 ## Patents
-- 
--
--
+- Method and Apparatus of Game Focus Estimation in Fast Team Sports, First Owner
+- Method and Apparatus of Key Players Recognition in Team Sports, First Owner
 
 ##  Honors
-------
-
 - **Intel Honorarium High-5 Award**. Intel inventors who have filed 5 new non-provisional patent applications within a 52-week period. 
 
 - **Intel Distinguished Invention Award.**
