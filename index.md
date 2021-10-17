@@ -7,20 +7,13 @@ Hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 2016.9-2019.6&nbsp;&nbsp;Peking University&nbsp;&nbsp;&nbsp;&nbsp; Integrated Circuits<br>
 2012.9-2016.6&nbsp;&nbsp;Wuhan Uni. of Sci. and Tech.&nbsp;&nbsp;&nbsp;&nbsp;Electronic Engineering
 
-
-## Publications
-
-* **ll** and Xxxx, "**paper name.** "
-
 ## Patents
-- Method and Apparatus of Game Focus Estimation in Fast Team Sports, First Owner
-- Method and Apparatus of Key Players Recognition in Team Sports, First Owner
+- Method and Apparatus of Game Focus Estimation in Fast Team Sports(First Owner)
+- Method and Apparatus of Key Players Recognition in Team Sports(First Owner)
 
 ##  Honors
 - **Intel Honorarium High-5 Award**. Intel inventors who have filed 5 new non-provisional patent applications within a 52-week period. 
-
 - **Intel Distinguished Invention Award.**
-
 - **2nd place in ICCV2021 UVO segmentation competition track #2.**
 
 ## Projects
