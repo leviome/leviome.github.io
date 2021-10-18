@@ -28,7 +28,7 @@
 
 - 2020.9-2021.6 利用图注意力网络对球类运动比赛的比赛焦点进行估计，本人为第一负责人（已发表专利），Demo如下：
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=378508007&bvid=BV1Sf4y1c7KM&cid=424336466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
-做这个简历的时候人已离职Intel，所以没找到很合适的Demo。
+通过
 
 
 
