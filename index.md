@@ -25,20 +25,20 @@ Hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 - **2nd place in ICCV2021 UVO segmentation competition track #2.**
 
 ## Projects
-1. Monocular Human Action Capture & Retargetting (2021.6-2021.9)
+1. **Monocular Human Action Capture & Retargetting** (2021.6-2021.9)
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>
 
-2. 2D/3D Game Focus Estimation:
+2. **2D/3D Game Focus Estimation**:<br>
 Estimate an area where stories happen. Using GNNs to estimate 3D game focus, and fully convolution to estimate 2D focus.
 
-3. Key Player Recognition:
+3. **Key Player Recognition**:<br>
 Recognize the role of on-field players by analyzing the formation and context information with GNNs.
 
-4. Ball Carrier Estimation in NFL games
+4. **Ball Carrier Estimation in NFL games**<br>
 Estimate the palyer who holds ball in the gridiron. Treating every player as a node of a graph, and modelling them with Graph Attention Nets.
 
-5. Hard Examples Mining for ball detection
+5. **Hard Examples Mining for ball detection**<br>
  
 
 
