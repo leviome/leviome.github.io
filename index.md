@@ -29,4 +29,16 @@ Hey, guys! I am a machine learning engineer at Intel Sports Group, specializing 
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>
 
+2. 2D/3D Game Focus Estimation:
+Estimate an area where stories happen. Using GNNs to estimate 3D game focus, and fully convolution to estimate 2D focus.
+
+3. Key Player Recognition:
+Recognize the role of on-field players by analyzing the formation and context information with GNNs.
+
+4. Ball Carrier Estimation in NFL games
+Estimate the palyer who holds ball in the gridiron. Treating every player as a node of a graph, and modelling them with Graph Attention Nets.
+
+5. Hard Examples Mining for ball detection
+ 
+
 
