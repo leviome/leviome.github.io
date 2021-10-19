@@ -1,14 +1,16 @@
 #### [[中文版]](./index_cn.html)
 
 ## About
-Hey, guys! I am a machine learning engineer at Intel Sports Group, specializing in computer vision, deep learning and geometric machine learning, etc. 
-
+Hey, guys! I specialize in computer vision, deep learning and geometric machine learning, and have two work experiences: One is acting as a machine learning engineer for 2 years at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html) to produce volumetric sports game show for worldwide sports fans like [this](https://www.intel.com/content/www/us/en/sports/sports-overview.htm), the other is to be a senior CV engineer at [TAL](http://www.100tal.com/) to develop a monocular retargeting system for kids education. <br>
+I'd like to digest complex or new algorithms and share my knowledges on technical blog(https://muzhan.blog.csdn.net), which helps me attract more than 6,000 subscribers in 4 years. <br>
+I am always regarded innovative and cooperative by my previous professors/colleagues. During my time in Intel, I filed several WIPO patents. 
+It's my great honor to introduce myself to you!
 ## Education
 2016.9-2019.6&nbsp;&nbsp;[Peking University](https://pku.edu.cn)&nbsp;&nbsp;&nbsp;&nbsp;Integrated Circuits&nbsp;&nbsp;&nbsp;&nbsp;Mphil<br>
 2012.9-2016.6&nbsp;&nbsp;[Wuhan Uni. of Sci. and Tech.](https://www.wust.edu.cn)&nbsp;&nbsp;&nbsp;&nbsp;Electronic Engineering&nbsp;&nbsp;&nbsp;&nbsp;Bachelor
 
 ## Work Experience
-2021.7-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TAL corp.](http://www.100tal.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image Processing Group&nbsp;&nbsp;&nbsp;&nbsp;Senior Image Engineer<br>
+2021.7-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TAL corp.](http://www.100tal.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generic Image Processing Group&nbsp;&nbsp;&nbsp;&nbsp;Senior Image Engineer<br>
 2019.6-2021.6&nbsp;&nbsp;[Intel China](https://intel.cn)&nbsp;&nbsp;&nbsp;&nbsp;[Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Engineer<br>
 2018.7-2019.6&nbsp;&nbsp;Intel China&nbsp;&nbsp;&nbsp;&nbsp;Intel Sports Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Intern.<br>
 
