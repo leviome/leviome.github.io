@@ -28,18 +28,22 @@ It's my great honor to introduce myself to you!
 ## Projects
 1. **Monocular Human Motion Capture & Retargetting** (2021.6-2021.9)
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<br>
+<br> 
+I tried two different ways to achieve motion retargetting: 1) detect human's joints and use IK to compute the joint rotation angles. 2) directly predict the joint rotation angles. And the latter is faster and more accurate.
 
 2. **2D/3D Game Focus Estimation**:<br>
-Estimate an area where stories happen. Using GNNs to estimate 3D game focus, and fully convolution to estimate 2D focus.
+In a sport game, we need to estimate an area where stories happen, to make cameras automatically focus. Game focus estimation should be quite stable, which refuses the idea that taking ball position as game focus. I did two types of game focus estimation, namely 2D and 3D, to fit different requests in our project. <br>
+
 
 3. **Key Player Recognition**:<br>
-Recognize the role of on-field players by analyzing the formation and context information with GNNs.
+In an American Football game, some key players like Quaterback, Running Back, Wide Receiver are mostly followed by the fans. 
+the rough description of 3D focus estimation is to treat every player as a node, use distance to compute node edges, and collect 55 features (including jersey number, team_id, body orientation, speed) for each node to build a graph, and use GNN to handle the graph for node classification.
 
 4. **Ball Carrier Estimation in NFL games**<br>
-Estimate the palyer who holds ball in the gridiron. Treating every player as a node of a graph, and modelling them with Graph Attention Nets.
+In most cases, the ball is occluded by player for seconds when game is going on, so we need to estimate the player who holds ball in the gridiron. rough description: treating every player as a node of a graph, and modelling them with Graph Attention Nets.
 
-5. **Hard Examples Mining for ball detection**<br>
+5. **Hard Negative Examples Mining for ball detection**<br>
+this method is used for handling false detection in our project. Hard negatives such as bare head and arm could mightly regarded as ball by a ball detection model. Therefore, I did hard negative examples mining to mitigate false detection. roughly described as: use well-pretrained model to process train set, and save the patchs (area in bounding box) which get high score but miss the ground truth (IOU=0). I take the patchs as negatives and ball patchs as positives to train a discrimintator (a binary classifier). The discriminator could refuse most hard negatives with only subtle recall loss.  
  
-
-
+6. **Accelerating CNN by parallel computing on FPGAs**<br>
+THis work was done at my postgraduate period. we designed a bubbling sort convolution method which can save LUTs and memories.
