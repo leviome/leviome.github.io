@@ -1,7 +1,7 @@
 #### [[中文版]](./index_cn.html)
 
 ## About
-Hey, guys! I am an AI engineer from China, specializing in computer vision & deep learning, with two professional experiences: One is working as a machine learning engineer for 2 years at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html), producing volumetric sports game show for worldwide sports fans like [this](https://www.intel.com/content/www/us/en/sports/sports-overview.htm), the other is to be a senior CV engineer at [TAL](http://www.100tal.com/) to develop a monocular retargeting system for kids education. <br>
+Hey, guys! I am an AI engineer from China, specializing in computer vision & deep learning, with two professional experiences: One is working as a machine learning engineer at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html) for two years, producing volumetric sports game shows for global sports fans like [this](https://www.intel.com/content/www/us/en/sports/sports-overview.htm), while the other is working as a senior CV engineer at [TAL](http://www.100tal.com/), developing a monocular motion capture and retargeting system. <br>
 I'd like to digest complex or new algorithms and share my knowledges on technical blog(https://muzhan.blog.csdn.net), which helps me attract more than 6,000 subscribers in 4 years. <br>
 I am always regarded innovative and cooperative by my previous professors/colleagues. During my time in Intel, I filed several WIPO patents. 
 It's my great honor to introduce myself to you!
@@ -26,7 +26,7 @@ It's my great honor to introduce myself to you!
 - **2nd place in ICCV2021 UVO segmentation competition track #2.**
 
 ## Projects
-1. **Monocular Human Action Capture & Retargetting** (2021.6-2021.9)
+1. **Monocular Human Motion Capture & Retargetting** (2021.6-2021.9)
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br>
 
