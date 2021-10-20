@@ -14,6 +14,10 @@ It's my great honor to introduce myself to you!
 2019.6-2021.6&nbsp;&nbsp;[Intel China](https://intel.cn)&nbsp;&nbsp;&nbsp;&nbsp;[Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning Engineer<br>
 2018.7-2019.6&nbsp;&nbsp;Intel China&nbsp;&nbsp;&nbsp;&nbsp;Intel Sports Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Intern.<br>
 
+## Skills
+- skilled: Python/Pytorch/Git/Linux/OpenCV/
+- semi-skilled: C++/JAVA/Unity3D/CUDA/TensorFlow/Keras/
+
 ## Patents
 - Method and Apparatus of Game Focus Estimation in Fast Team Sports(First Owner)
 - Method and Apparatus of Key Players Recognition in Team Sports(First Owner)
