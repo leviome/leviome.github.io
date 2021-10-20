@@ -1,7 +1,7 @@
 #### [[中文版]](./index_cn.html)
 
 ## About
-Hey, guys! I specialize in computer vision, deep learning and geometric machine learning, and have two work experiences: One is acting as a machine learning engineer for 2 years at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html) to produce volumetric sports game show for worldwide sports fans like [this](https://www.intel.com/content/www/us/en/sports/sports-overview.htm), the other is to be a senior CV engineer at [TAL](http://www.100tal.com/) to develop a monocular retargeting system for kids education. <br>
+Hey, guys! I am an AI engineer from China, specializing in computer vision & deep learning, with two professional experiences: One is working as a machine learning engineer for 2 years at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html), producing volumetric sports game show for worldwide sports fans like [this](https://www.intel.com/content/www/us/en/sports/sports-overview.htm), the other is to be a senior CV engineer at [TAL](http://www.100tal.com/) to develop a monocular retargeting system for kids education. <br>
 I'd like to digest complex or new algorithms and share my knowledges on technical blog(https://muzhan.blog.csdn.net), which helps me attract more than 6,000 subscribers in 4 years. <br>
 I am always regarded innovative and cooperative by my previous professors/colleagues. During my time in Intel, I filed several WIPO patents. 
 It's my great honor to introduce myself to you!
