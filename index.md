@@ -31,9 +31,9 @@ It's my great honor to introduce myself to you!
 
 ## Projects
 1. **Monocular Human Motion Capture & Retargetting** (2021.6-2021.9)
+I tried two different ways to achieve motion retargetting: 1) detect human's joints and use IK to compute the joint rotation angles. 2) directly predict the joint rotation angles. And the latter is faster and more accurate.
 <iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=720653249&bvid=BV1WQ4y1z7bp&cid=414574687&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br> 
-I tried two different ways to achieve motion retargetting: 1) detect human's joints and use IK to compute the joint rotation angles. 2) directly predict the joint rotation angles. And the latter is faster and more accurate.
 
 2. **2D/3D Game Focus Estimation**:<br>
 In a sport game, we need to estimate an area where stories happen, to make cameras automatically focus. Game focus estimation should be quite stable, which refuses the idea that taking ball position as game focus. I did two types of game focus estimation, namely 2D and 3D, to fit different requests in our project. <br>
