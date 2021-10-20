@@ -37,6 +37,8 @@ I tried two different ways to achieve motion retargetting: 1) detect human's joi
 
 2. **2D/3D Game Focus Estimation**:<br>
 In a sport game, we need to estimate an area where stories happen, to make cameras automatically focus. Game focus estimation should be quite stable, which refuses the idea that taking ball position as game focus. I did two types of game focus estimation, namely 2D and 3D, to fit different requests in our project. <br>
+a demo of 3D game focus:
+<iframe height=300 width=500 src="//player.bilibili.com/player.html?aid=378508007&bvid=BV1Sf4y1c7KM&cid=424336466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
 
 
 3. **Key Player Recognition**:<br>
@@ -44,7 +46,7 @@ In an American Football game, some key players like Quaterback, Running Back, Wi
 the rough description of 3D focus estimation is to treat every player as a node, use distance to compute node edges, and collect 55 features (including jersey number, team_id, body orientation, speed) for each node to build a graph, and use GNN to handle the graph for node classification.
 
 4. **Ball Carrier Estimation in NFL games**<br>
-In most cases, the ball is occluded by player for seconds when game is going on, so we need to estimate the player who holds ball in the gridiron. rough description: treating every player as a node of a graph, and modelling them with Graph Attention Nets.
+In most cases, the ball is invisible when occluded by player for seconds, so we estimate the player who holds ball in the gridiron instead. Ideas roughly described as: treating every player as a node of a graph, and modelling them with Graph Attention Nets.
 
 5. **Hard Negative Examples Mining for ball detection**<br>
 this method is used for handling false detection in our project. Hard negatives such as bare head and arm could mightly regarded as ball by a ball detection model. Therefore, I did hard negative examples mining to mitigate false detection. roughly described as: use well-pretrained model to process train set, and save the patchs (area in bounding box) which get high score but miss the ground truth (IOU=0). I take the patchs as negatives and ball patchs as positives to train a discrimintator (a binary classifier). The discriminator could refuse most hard negatives with only subtle recall loss.  
