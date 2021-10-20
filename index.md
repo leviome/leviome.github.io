@@ -3,7 +3,7 @@
 ## About
 Hey, guys! I am an AI engineer from China, specializing in computer vision & deep learning, with two professional experiences: <br>One is working as a machine learning engineer at [Intel Sports Group](https://www.intel.com/content/www/us/en/sports/sports-overview.html) for two years, producing volumetric sports game shows for global sports fans like [this](https://youtu.be/J7xIBoPr83A), while the other is working as a senior CV engineer at [TAL](http://www.100tal.com/), developing a monocular motion capture and retargeting system. <br>
 I'd like to digest theories and share what I've learned on a technical blog([https://muzhan.blog.csdn.net](https://muzhan.blog.csdn.net)), which has helped me gain over 6,000 subscribers in four years. <br>
-I am always regarded resourceful and cooperative by my previous partners. During my stay at Intel, I filed two WIPO patents as well as a number of cooperative patents. 
+I am always regarded resourceful and cooperative by my previous partners. During my stay at Intel, I filed two WIPO patents as well as a number of cooperative patents. <br>
 It's my great honor to introduce myself to you!
 ## Education
 2016.9-2019.6&nbsp;&nbsp;[Peking University](https://pku.edu.cn)&nbsp;&nbsp;&nbsp;&nbsp;Integrated Circuits&nbsp;&nbsp;&nbsp;&nbsp;Mphil<br>
